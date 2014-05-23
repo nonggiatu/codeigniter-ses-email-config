@@ -11,4 +11,4 @@ $config['smtp_port'] = "465";
 $config['smtp_timeout'] = "20";
 $config['crlf'] = "\r\n";
 $config['newline'] = "\r\n";
-$config['mailsender'] = "no-reply@bibook.vn";
+$config['mailsender'] = "no-reply@yourdomain.com";
