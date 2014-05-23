@@ -1,5 +1,5 @@
 <?php
-
+// File application/config/email.php
 $config['protocol'] = 'smtp';
 $config['charset'] = 'utf-8';
 $config['mailtype'] = 'html';

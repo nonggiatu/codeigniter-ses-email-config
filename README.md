@@ -13,6 +13,7 @@ Just copy this file to application/config folder and set proper hostname, userna
 
 ```PHP
 <?php
+// File application/config/email.php
 $config['protocol'] = 'smtp';
 $config['charset'] = 'utf-8';
 $config['mailtype'] = 'html';
